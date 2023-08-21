@@ -121,7 +121,7 @@ text-align: center;
 opacity: 0.9;
 }
 header{
-    background-image: url(/images/background.jpg);
+    background-image: url(/background.jpg);
         width: 100%;
         overflow: hidden;
         position: relative;
